@@ -24,4 +24,7 @@
     h1 {
         color: orange;
     }
+    h2 {
+        color: purple;
+    }
 </style>
