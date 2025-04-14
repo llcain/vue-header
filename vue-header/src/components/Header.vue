@@ -14,6 +14,8 @@
 
 <h1>header component</h1>
 <p>This is my header component</p>
+<p>This is my header component</p>
+<p>This is my header component</p>
 
 </template>
 
